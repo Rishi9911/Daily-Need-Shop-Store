@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+.venv312/
+
+# Environment variables and credentials
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs
+logs/
